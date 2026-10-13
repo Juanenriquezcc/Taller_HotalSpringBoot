@@ -177,12 +177,6 @@ seleccionadas y verificadas.
    .\mvnw.cmd spring-boot:run
    ```
 
-## Evidencias
-
-Actualmente no existen capturas de pantalla ni archivos de evidencia gráfica
-guardados en el proyecto. La evidencia disponible es la salida real de Maven
-documentada en la sección de resultados.
-
 ## Conclusión
 
 El proyecto contiene cinco pruebas unitarias nuevas: tres pruebas directas de
